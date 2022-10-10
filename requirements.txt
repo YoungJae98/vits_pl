@@ -3,3 +3,11 @@ jsonlines
 matplotlib
 scikit-learn
 jupyterlab
+librosa
+Cython
+phonemizer
+Unidecode
+jamo
+pytorch_lightning
+monotonic_align
+wavio
