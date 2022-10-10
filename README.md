@@ -1,3 +1,5 @@
 # vits_pl
 
-refactoring [VITS]("https://www.github.com/jaywalnut310/vits") as pytorch_lightning
+refactoring [VITS][vitslink] as pytorch_lightning
+
+[vitslink]: https://github.com/jaywalnut310/vits
