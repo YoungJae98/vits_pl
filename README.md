@@ -1,5 +1,5 @@
 # vits_pl
 
-refactoring [VITS][vitslink] as pytorch_lightning
+refactoring [VITS][vitslink] by pytorch_lightning library
 
 [vitslink]: https://github.com/jaywalnut310/vits
